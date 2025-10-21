@@ -28,25 +28,6 @@ O fluxo principal do n8n processa o alerta, consulta o Zabbix, envia para o Chat
 📸 **Fluxo completo:**
 ![Fluxo do n8n](n8n-screenshots/Captura%20de%20tela%202025-10-20%20184146.png)
 
----
-
-## 📬 Exemplo de E-mail
-
-O alerta chega formatado com detalhes e ações sugeridas:
-
-📸 **Exemplo de e-mail:**
-![Email Exemplo](n8n-screenshots/Captura%20de%20tela%202025-10-20%20184157.png)
-
----
-
-## 💬 Exemplo no Telegram
-
-O mesmo alerta é enviado automaticamente ao grupo do time responsável no Telegram:
-
-📸 **Exemplo de alerta no Telegram:**
-![Telegram Exemplo](n8n-screenshots/Captura%20de%20tela%202025-10-20%20184211.png)
-
----
 
 ## 🧩 Estrutura do Fluxo (Resumo dos Nós)
 
