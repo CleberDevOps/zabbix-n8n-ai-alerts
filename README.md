@@ -26,7 +26,10 @@ Este projeto cria uma automação completa de alertas do **Zabbix** usando o **n
 O fluxo principal do n8n processa o alerta, consulta o Zabbix, envia para o ChatGPT e distribui conforme a classificação.
 
 📸 **Fluxo completo:**
-![Fluxo do n8n](n8n-screenshots/Captura%20de%20tela%202025-10-20%20184146.png)
+![Fluxo do n8n]
+
+<img width="1663" height="642" alt="image" src="https://github.com/user-attachments/assets/3d85688e-b061-436c-8a26-6bc6bab8264e" />
+
 
 
 ## 🧩 Estrutura do Fluxo (Resumo dos Nós)
