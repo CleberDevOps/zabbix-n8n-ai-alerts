@@ -60,6 +60,26 @@ O fluxo principal do n8n processa o alerta, consulta o Zabbix, envia para o Chat
   "prioridade": "Alta"
 }
 
+---
+
+## 👨‍💻 Autor
+
+**Cleber Moreira (CleberDevOps)**  
+Infraestrutura | DevOps | Automação | Monitoramento  
+
+📧 [cleber.moreira@beesy.com.br](mailto:cleber.moreira@beesy.com.br)  
+🌐 [www.linkedin.com/in/cleber-moreira-/](https://www.linkedin.com/in/cleber-moreira-/)  
+🐙 [github.com/CleberDevOps](https://github.com/CleberDevOps)
+
+---
+
+## 📜 Licença
+
+Este projeto está licenciado sob a licença **MIT** — sinta-se livre para usar, modificar e contribuir.
+
+---
+
+⭐ Se este projeto te ajudou, não esqueça de deixar uma estrela no repositório!  
 
 
 
