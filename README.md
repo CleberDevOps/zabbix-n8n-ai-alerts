@@ -1,4 +1,4 @@
-# zabbix-n8n-ai-alerts
+# Zabbix-n8n-IA-Alerts
 Automação de alertas do Zabbix com n8n e ChatGPT (AI Agent) — análise, classificação e envio inteligente.
 
 # 🤖 Zabbix + n8n + ChatGPT (AI Agent) — Alertas Inteligentes
